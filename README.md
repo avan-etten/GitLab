@@ -3,3 +3,4 @@ collaborative practice
 
 ##Team
 * Alec
+* Amanda
